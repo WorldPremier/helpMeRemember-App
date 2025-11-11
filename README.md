@@ -11,7 +11,7 @@
 
 Why malleable and why it matters: user may update key items at any time so ui button must adapt to end user. Lets say you no longer driving that Lambo then missing key item can be updated accordingly. So the application will display on one side buttons to edit and the other side the actual visual of the reminder for every task or procedure. 
 
-NOTE: the missing item can be anything including a procedure an ittem or anything of value for the end user. 
+NOTE: the missing item can be anything including a procedure an item or anything of value for the end user. 
 
 Technology use: Next.js |React.js | javascript | typescript | HTML | CSS
 
