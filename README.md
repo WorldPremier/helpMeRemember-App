@@ -13,6 +13,6 @@ Why maleable and why it matters: user may update key items at any time so ui but
 
 NOTE: the missing item can be anything including a procedure an ittem or anything of value for the end user. 
 
-Technology use: Next.js |React.js | javascript | typescript
+Technology use: Next.js |React.js | javascript | typescript | HTML | CSS
 
-Status: Pending...
+Status: Pending|
