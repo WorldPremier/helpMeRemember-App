@@ -5,7 +5,7 @@
 # Test end-to-end use cases:
 ## Imagine walking out of the house and forgetting the basics keys, wallet and phone. Before heading out this app will actively tell you what you'll need before stepping out of your home.
 
-# Imaging working on painting a home and you know it requires diamond-handle-tip type brush(best in the market) to work with the metallic paint, hence this app will help you remember to bring your tools right to complete the task hypothetically as a use case. 
+# Imaging working on painting a home and you know it requires diamond-handle-tip type brush(best in the market) to work with the metallic paint, hence this app will help you remember to bring your right tools to complete the task hypothetically as a use case. 
 ## Hence the missing item will be processed through the DOM key elements to where its provided in an array of missing items hence outputting the task to complete the job at hand. 
 
 ## Imagine you're hauling freightliner and if weight is greater than lets say 10k as oversize, hence bringing on the Penske with hydrolics and air brakes would be the missing key elment to complete the tast at hand. Meaning you set the standands the end user. 
@@ -31,4 +31,5 @@ key concepts to explore -->
 #Playwright =
   - Test button with key element attributes
   - Test Page Object modal through parametrized methods
-  - Testing for simplicity yet engineered for intuitive use and high-performance capabilities. 
+  - Testing for simplicity yet engineered for intuitive use and high-performance capabilities.
+  - Testing for scenic Rendering 
