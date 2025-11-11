@@ -6,3 +6,13 @@
 ## use case # Imaging working on painting a home and you know it requires metalic prush to work with the metalic paint, hence this app will help you remember to bring your metalic brushes to complete the task so to speak as one of use cases. 
 ## Hence the missing item will be processed through the DOM key elements to where its provided in an array of missing items hence outputting the task to complete the job at hand. 
 ## Imagine you're hauling freightliner and if weight is greater than lets say 10k as oversize, hecne bringing on the Penske with hydrolics would be the missing key elment to complete the tast at hand. Meaning you set the standands the end user. 
+
+## All protorype UI buttons will have to be maleable meaning instantiating itenary logical conditions based on what the user sets as a key missing item to remember as a pre set-up and ready to render all leading up to the final product or destination.  
+
+Why maleable and why it matters: user may update key items at any time so ui button must adapt to end user. Lets say you no longer driving that Lambo then missing key item can be updated accordingly. So the application will display on one side buttons to edit and the other side the actual visual of the reminder for every task or procedure. 
+
+NOTE: the missing item can be anything including a procedure an ittem or anything of value for the end user. 
+
+Technology use: Next.js |React.js | javascript | typescript
+
+Status: Pending...
