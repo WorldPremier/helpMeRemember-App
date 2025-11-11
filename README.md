@@ -20,7 +20,7 @@ Technology use: Next.js |React.js | javascript | typescript | HTML | CSS | Note:
 
 Status: Pending|
 
-************************** EXPLORATION SECTION******************************
+**** EXPLORATION SECTION
 key concepts to explore --> 
 #Nullish coalescing operator
 #Ternary logics
