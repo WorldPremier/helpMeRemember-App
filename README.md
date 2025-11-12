@@ -32,4 +32,5 @@ key concepts to explore -->
   - Test button with key element attributes
   - Test Page Object modal through parametrized methods
   - Testing for simplicity yet engineered for intuitive use and high-performance capabilities.
-  - Testing for scenic Rendering 
+  - Testing for scenic Rendering
+  - State Management Rendering
